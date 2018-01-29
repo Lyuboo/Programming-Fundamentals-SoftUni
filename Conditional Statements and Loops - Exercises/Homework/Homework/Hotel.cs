@@ -52,14 +52,14 @@ namespace Homework
             }
             if (nightsCount > 7 && (month == "September" || month == "October"))
             {
-                Console.WriteLine($"Studio: {studioPrice * (nightsCount - 1)} lv.");
+                Console.WriteLine($"Studio: {(studioPrice * (nightsCount - 1)):F2} lv.");
             }
             else
             {
-                Console.WriteLine($"Studio: {studioPrice * nightsCount} lv.");
+                Console.WriteLine($"Studio: {(studioPrice * nightsCount):F2} lv.");
             }
-            Console.WriteLine($"Double: {doubleRoomPrice * nightsCount} lv.");
-            Console.WriteLine($"Suite: {suitePrice * nightsCount} lv.");
+            Console.WriteLine($"Double: {(doubleRoomPrice * nightsCount):F2} lv.");
+            Console.WriteLine($"Suite: {(suitePrice * nightsCount):F2} lv.");
         }
     }
 }
