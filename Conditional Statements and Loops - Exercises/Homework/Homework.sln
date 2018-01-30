@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "differentNumbers", "differe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testNumbers", "testNumbers\testNumbers.csproj", "{87E1A4DC-280E-42C5-9E6E-30F47B167406}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gameOfNumbers", "gameOfNumbers\gameOfNumbers.csproj", "{369D94B2-3972-4268-AD5E-E2585A7FE89F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "magicLetter", "magicLetter\magicLetter.csproj", "{FF98F4A7-85EB-4693-AC01-2576BFFB6109}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{87E1A4DC-280E-42C5-9E6E-30F47B167406}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87E1A4DC-280E-42C5-9E6E-30F47B167406}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87E1A4DC-280E-42C5-9E6E-30F47B167406}.Release|Any CPU.Build.0 = Release|Any CPU
+		{369D94B2-3972-4268-AD5E-E2585A7FE89F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{369D94B2-3972-4268-AD5E-E2585A7FE89F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{369D94B2-3972-4268-AD5E-E2585A7FE89F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{369D94B2-3972-4268-AD5E-E2585A7FE89F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF98F4A7-85EB-4693-AC01-2576BFFB6109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF98F4A7-85EB-4693-AC01-2576BFFB6109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF98F4A7-85EB-4693-AC01-2576BFFB6109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF98F4A7-85EB-4693-AC01-2576BFFB6109}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
