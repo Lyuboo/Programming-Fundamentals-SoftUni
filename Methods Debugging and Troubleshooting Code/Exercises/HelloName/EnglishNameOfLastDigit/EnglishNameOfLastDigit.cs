@@ -6,7 +6,7 @@ namespace EnglishNameOfLastDigit
     {
         static void Main(string[] args)
         {
-            int inputNumber = int.Parse(Console.ReadLine());
+            long inputNumber = long.Parse(Console.ReadLine());
             Console.WriteLine(NameOfLastDigit(inputNumber));
         }
 
@@ -16,8 +16,6 @@ namespace EnglishNameOfLastDigit
             long lastDigit = number % 10;
             switch (lastDigit)
             {
-                case 0:
-                    return "zero";
                 case 1:
                     return "one";
                 case 2:

@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxMethod", "MaxMethod\MaxM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglishNameOfLastDigit", "EnglishNameOfLastDigit\EnglishNameOfLastDigit.csproj", "{A48E75A5-AD9C-4A4B-98FE-EC00C47530CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersInReversedOrder", "NumbersInReversedOrder\NumbersInReversedOrder.csproj", "{87AC6928-500B-4CEF-9E82-BF5330312ADA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{277F4ECD-41EC-4E36-A33A-6CAE9F777E57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{A48E75A5-AD9C-4A4B-98FE-EC00C47530CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A48E75A5-AD9C-4A4B-98FE-EC00C47530CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A48E75A5-AD9C-4A4B-98FE-EC00C47530CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87AC6928-500B-4CEF-9E82-BF5330312ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87AC6928-500B-4CEF-9E82-BF5330312ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87AC6928-500B-4CEF-9E82-BF5330312ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87AC6928-500B-4CEF-9E82-BF5330312ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{277F4ECD-41EC-4E36-A33A-6CAE9F777E57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{277F4ECD-41EC-4E36-A33A-6CAE9F777E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{277F4ECD-41EC-4E36-A33A-6CAE9F777E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{277F4ECD-41EC-4E36-A33A-6CAE9F777E57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
