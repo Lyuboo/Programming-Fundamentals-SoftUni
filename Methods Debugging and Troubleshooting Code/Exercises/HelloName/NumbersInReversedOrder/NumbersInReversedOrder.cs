@@ -6,8 +6,8 @@ namespace NumbersInReversedOrder
     {
         static void Main(string[] args)
         {
-            decimal inputNumber = decimal.Parse(Console.ReadLine());
-            ReversedNumber(inputNumber);
+            string inputNumber = Console.ReadLine();
+            Console.WriteLine(ReversedNumber(inputNumber));
         }
 
         private static void ReversedNumber(decimal inputNumber)
@@ -33,6 +33,18 @@ namespace NumbersInReversedOrder
                 reversedNumber = reversedNumber / 10M;
             }
             Console.WriteLine(reversedNumber);
+
+
+        }
+
+        private static string ReversedNumber(string number)
+        {
+            string reverseNumber = "";
+            for (int i = number.Length - 1; i >= 0; i--)
+            {
+                reverseNumber += number[i];
+            }
+            return reverseNumber;
         }
     }
 }
