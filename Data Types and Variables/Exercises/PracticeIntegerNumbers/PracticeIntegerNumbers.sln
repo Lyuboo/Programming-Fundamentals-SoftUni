@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeCharsAndStrings", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariableInHEXFormat", "VariableInHEXFormat\VariableInHEXFormat.csproj", "{3E2D0AE7-ED86-4320-BF03-F6A92C512757}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooleanVariable", "BooleanVariable\BooleanVariable.csproj", "{BDB9B9F0-C564-4569-A3AB-ED2BEB2274A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{3E2D0AE7-ED86-4320-BF03-F6A92C512757}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E2D0AE7-ED86-4320-BF03-F6A92C512757}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E2D0AE7-ED86-4320-BF03-F6A92C512757}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDB9B9F0-C564-4569-A3AB-ED2BEB2274A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB9B9F0-C564-4569-A3AB-ED2BEB2274A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB9B9F0-C564-4569-A3AB-ED2BEB2274A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB9B9F0-C564-4569-A3AB-ED2BEB2274A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
