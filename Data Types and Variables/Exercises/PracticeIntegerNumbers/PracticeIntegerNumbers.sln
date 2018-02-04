@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeIntegerNumbers", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeFloatingNumbers", "PracticeFloatingNumbers\PracticeFloatingNumbers.csproj", "{D7C353BB-8F49-4190-AF48-27DE56363896}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeCharsAndStrings", "PracticeCharsAndStrings\PracticeCharsAndStrings.csproj", "{473367D8-EBB2-40A2-B2D6-50E58597E3D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D7C353BB-8F49-4190-AF48-27DE56363896}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7C353BB-8F49-4190-AF48-27DE56363896}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7C353BB-8F49-4190-AF48-27DE56363896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{473367D8-EBB2-40A2-B2D6-50E58597E3D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473367D8-EBB2-40A2-B2D6-50E58597E3D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473367D8-EBB2-40A2-B2D6-50E58597E3D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473367D8-EBB2-40A2-B2D6-50E58597E3D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
