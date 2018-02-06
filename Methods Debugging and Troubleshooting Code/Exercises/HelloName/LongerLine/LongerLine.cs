@@ -33,7 +33,7 @@ namespace LongerLine
             }
             else
             {
-                Console.WriteLine($"({x1}, {y1})");
+                Console.WriteLine($"({x1}, {y1})({x2}, {y2})");
             }
 
         }
