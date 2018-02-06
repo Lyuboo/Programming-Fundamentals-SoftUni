@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloName", "HelloName\HelloName.csproj", "{485BE588-9E74-49B9-9853-34D4C39670B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloName", "HelloName\HelloName.csproj", "{485BE588-9E74-49B9-9853-34D4C39670B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxMethod", "MaxMethod\MaxMethod.csproj", "{D1D1517D-0942-4B89-8592-49FFC975B3AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxMethod", "MaxMethod\MaxMethod.csproj", "{D1D1517D-0942-4B89-8592-49FFC975B3AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglishNameOfLastDigit", "EnglishNameOfLastDigit\EnglishNameOfLastDigit.csproj", "{A48E75A5-AD9C-4A4B-98FE-EC00C47530CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnglishNameOfLastDigit", "EnglishNameOfLastDigit\EnglishNameOfLastDigit.csproj", "{A48E75A5-AD9C-4A4B-98FE-EC00C47530CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersInReversedOrder", "NumbersInReversedOrder\NumbersInReversedOrder.csproj", "{87AC6928-500B-4CEF-9E82-BF5330312ADA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumbersInReversedOrder", "NumbersInReversedOrder\NumbersInReversedOrder.csproj", "{87AC6928-500B-4CEF-9E82-BF5330312ADA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{277F4ECD-41EC-4E36-A33A-6CAE9F777E57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{277F4ECD-41EC-4E36-A33A-6CAE9F777E57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeChecker", "PrimeChecker\PrimeChecker.csproj", "{C403B8A3-7071-4866-9836-43C10C8A86F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeChecker", "PrimeChecker\PrimeChecker.csproj", "{C403B8A3-7071-4866-9836-43C10C8A86F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimesInGivenRange", "PrimesInGivenRange\PrimesInGivenRange.csproj", "{E857FF18-AE53-47BB-90AD-36991E6B653D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{C403B8A3-7071-4866-9836-43C10C8A86F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C403B8A3-7071-4866-9836-43C10C8A86F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C403B8A3-7071-4866-9836-43C10C8A86F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E857FF18-AE53-47BB-90AD-36991E6B653D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E857FF18-AE53-47BB-90AD-36991E6B653D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E857FF18-AE53-47BB-90AD-36991E6B653D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E857FF18-AE53-47BB-90AD-36991E6B653D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
